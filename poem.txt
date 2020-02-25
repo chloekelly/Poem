@@ -1,4 +1,4 @@
-My poem:
+My poem:Definition experimentation 
 
 I like interactive media.
 So much so,
@@ -15,3 +15,12 @@ That I believe it is time to experiment.
 So follow along between the branches, 
 to see how, 
 This poem about interactive media advances. 
+
+One branch I could follow,
+is to create my own defintion,
+However as my knowledge is still yet a bit hollow,
+I think its best to rely upon some repitition. 
+
+Interactive media is sometimes a method of communication in which the output from the media comes from the input of the users
+Interactive media is sometimes discrete or continuous 
+Interactive media is sometimes away of making the invisible visible
